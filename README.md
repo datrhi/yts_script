@@ -21,3 +21,4 @@ Lua script 3rd party for [YTS Platform](https://setup.yts.lol/yts++/master)
 - Fiora
 - Ryze
 - Gwen
+- Zoe

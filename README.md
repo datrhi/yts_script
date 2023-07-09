@@ -1,6 +1,7 @@
 # yts_script
 YTS build script 
 Lua script 3rd party for [YTS Platform](https://setup.yts.lol/yts++/master)
+Add script license to feeder.txt
 
 ### Support:
 - Jax 

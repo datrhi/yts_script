@@ -319,5 +319,5 @@ elseif ChampName == "Zoe" then
 elseif ChampName == "Zyra" then
     require("scripts/HDAIO/zyra")
 elseif ChampName == "Naafiri" then
-    require("script/HDAIO/naafiri")
+    require("scripts/HDAIO/naafiri")
 end

@@ -4,6 +4,8 @@ if ChampName == "Aatrox" then
     require("scripts/HDAIO/aatrox")
 elseif ChampName == "Ahri" then
     require("scripts/HDAIO/ahri")
+elseif ChampName == "Akshan" then
+    require("scripts/HDAIO/akshan")
 elseif ChampName == "Akali" then
     require("scripts/HDAIO/akali")
 elseif ChampName == "Alistar" then

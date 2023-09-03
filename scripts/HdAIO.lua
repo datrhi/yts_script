@@ -322,4 +322,6 @@ elseif ChampName == "Zyra" then
     require("scripts/HDAIO/zyra")
 elseif ChampName == "Naafiri" then
     require("scripts/HDAIO/naafiri")
+elseif ChampName == "Zeri" then
+    require("scripts/HDAIO/zeri")
 end

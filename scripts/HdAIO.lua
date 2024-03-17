@@ -324,4 +324,6 @@ elseif ChampName == "Naafiri" then
     require("scripts/HDAIO/naafiri")
 elseif ChampName == "Zeri" then
     require("scripts/HDAIO/zeri")
+elseif ChampName == "Smolder" then
+    require("scripts/HDAIO/smolder")
 end
